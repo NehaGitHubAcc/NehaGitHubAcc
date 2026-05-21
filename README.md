@@ -16,8 +16,8 @@ I am a passionate software engineer focused on building robust, scalable web app
 
 * **Backend:** C#, .NET Core, Web API, Entity Framework Core, Microservices
 * **Frontend:** Angular, React, JavaScript, HTML5, CSS3
-* **Databases:** SQL Server, PostgreSQL
-* **Tools & DevOps:** Git, GitHub Actions, Docker, JIRA
+* **Databases:** SQL Server
+* **Tools & DevOps:** Git, GitHub Actions, Docker, JIRA, Azure
 
 ---
 
