@@ -21,9 +21,13 @@ I am a passionate software engineer focused on building robust, scalable web app
 
 ---
 
+### 📈 Featured Projects
+- 💻 **[DatingApp](https://github.com/NehaGitHubAcc/DatingApp)**: A full-featured, responsive full-stack application built with .NET Core and Angular featuring secure authentication and real-time interactions.
+  
+---
+
 ### 📈 What I'm Working On Now
 * 💻 Refining my **DatingApp** full-stack project.
-* 🛠️ Building out my **fullstack-jobready** repository to showcase production-grade architectures.
 * 🌟 Contributing to the .NET community ecosystem.
 
 ---
